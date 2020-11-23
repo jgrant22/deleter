@@ -1,0 +1,19 @@
+{
+  "name": "deleter",
+  "version": "1.0.0",
+  "description": "delete certain tweets in masses",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jgrant22/deleter.git"
+  },
+  "author": "Jared K. Grant",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jgrant22/deleter/issues"
+  },
+  "homepage": "https://github.com/jgrant22/deleter#readme"
+}
